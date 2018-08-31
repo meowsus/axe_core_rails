@@ -2,15 +2,6 @@
 This plugin adds the minified version of Deque's aXe Accessibility Engine to the
 Asset Pipeline.
 
-## Versioning
-The first three numbers in the semantic version of this gem are for the aXe
-library. The last is for the patch on this gem's release. Therefore, version:
-
-`3.0.2.1`
-
-would indicate an aXe version of `3.0.2` but that this gem has been patched
-once.
-
 ## Installation
 Add this line to your application's Gemfile:
 

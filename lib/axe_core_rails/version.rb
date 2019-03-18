@@ -1,3 +1,3 @@
 module AxeCoreRails
-  VERSION = '3.1.1'
+  VERSION = '3.2.2'.freeze
 end

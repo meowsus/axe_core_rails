@@ -12,3 +12,6 @@ gemspec
 
 # To use a debugger
 # gem 'byebug', group: [:development, :test]
+
+# Fixes https://github.com/advisories/GHSA-c3gv-9cxf-6f57
+gem 'loofah', '>= 2.3.1'

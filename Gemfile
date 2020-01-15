@@ -15,3 +15,5 @@ gemspec
 
 # Fixes https://github.com/advisories/GHSA-c3gv-9cxf-6f57
 gem 'loofah', '>= 2.3.1'
+
+gem 'rack', '~> 2.0.8'

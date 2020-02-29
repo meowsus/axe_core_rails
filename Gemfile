@@ -17,3 +17,6 @@ gemspec
 gem 'loofah', '>= 2.3.1'
 
 gem 'rack', '~> 2.0.8'
+
+# CVE-2020-7595
+gem 'nokogiri', '~> 1.10.8'
